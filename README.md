@@ -8,3 +8,5 @@ e no código: https://codesandbox.io/p/sandbox/lcfhk4
 
 Ainda sem componentização, então, basicamente utilizando html, scss e javascript.
 Objetivo de treinar useState pra trocar a imagem com base no clique.
+
+E com deployment em: https://vnw-desafio1-modulo2.vercel.app/
