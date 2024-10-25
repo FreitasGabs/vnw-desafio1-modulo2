@@ -34,8 +34,7 @@ img {
   width: 80vw;
   height: 80vh;
   max-width: fit-content;
-  min-width: 50vw;
-  min-height: 50vw;
+  min-width: 30vh;
 
   @media(max-width: 850px){
     width: 60vw;
