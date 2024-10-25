@@ -1,5 +1,5 @@
-node_modules
-.codesandbox
-build
+node_modules/
+.codesandbox/
+build/
 .eslintrc.json
 yarn.lock
