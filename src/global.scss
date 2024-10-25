@@ -34,5 +34,8 @@ h3{
   max-width: 200px;
   width: 30vw;
   justify-self: center;
-  
+
+    @media (max-width: 850px){
+      background-color: #B74794;
+    }
 }
