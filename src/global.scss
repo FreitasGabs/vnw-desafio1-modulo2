@@ -49,11 +49,11 @@ h3{
   background-color: #007BFF;
   border-radius: 20%/80%;
   padding: 10px 20px;
-  max-width: 200px;
   width: 30vw;
   justify-self: center;
 
     @media (max-width: 850px){
       background-color: #B74794;
+      width: 40vw;
     }
 }
