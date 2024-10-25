@@ -17,12 +17,30 @@ body{
   background-image: url("https://github.com/mariaccarolina/TurmaFDV/blob/main/imagens/Imagem%20palacio.png?raw=true");
   background-position: center;
   height: 100vh;
+  width: 100vw;
   text-align: center;
 }
 
 h2{
   @include texto;
   padding-top: 10px;
+
+    @media(max-width: 850px){
+      padding-bottom: 5em;
+    }
+}
+
+img {
+  width: 80vw;
+  height: 80vh;
+  max-width: fit-content;
+  min-width: 50vw;
+  min-height: 50vw;
+
+  @media(max-width: 850px){
+    width: 60vw;
+    height: 60vh;
+  }
 }
 
 h3{
