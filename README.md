@@ -7,6 +7,7 @@ Página feita em React, baseada no figma: https://www.figma.com/design/LBODsPDSy
 e no código: https://codesandbox.io/p/sandbox/lcfhk4
 
 Ainda sem componentização, então, basicamente utilizando html, scss e javascript.
+Porém com um pouco de responsividade.
 Objetivo de treinar useState pra trocar a imagem com base no clique.
 
 E com deployment em: https://vnw-desafio1-modulo2.vercel.app/
